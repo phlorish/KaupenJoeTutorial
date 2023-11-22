@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "":
+        {
+            "model": "phlorishtutorial:block/nether_sapphire_ore"
+        }
+    }
+}

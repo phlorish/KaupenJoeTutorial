@@ -1,0 +1,16 @@
+{
+    "item.phlorishtutorial.sapphire": "Sapphire",
+    "item.phlorishtutorial.raw_sapphire": "Raw Sapphire",
+    "item.phlorishtutorial.metal_detector": "Metal Detector",
+
+    "block.phlorishtutorial.sapphire_block": "Block of Sapphire",
+    "block.phlorishtutorial.raw_sapphire_block": "Block of Raw Sapphire",
+    "block.phlorishtutorial.sound_block": "Sound Block",
+
+    "block.phlorishtutorial.sapphire_ore": "Sapphire Ore",
+    "block.phlorishtutorial.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+    "block.phlorishtutorial.nether_sapphire_ore": "Nether Sapphire Ore",
+    "block.phlorishtutorial.end_stone_sapphire_ore": "End Stone Sapphire Ore",
+
+    "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}

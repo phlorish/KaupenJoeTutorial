@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern":
+    [
+        "PPP",
+        "P#P",
+        "PPP"
+    ],
+    "key":
+    {
+        "#":
+        {
+            "item": "phlorishtutorial:sapphire"
+        },
+        "P":
+        {
+            "item": "minecraft:planks"
+        }
+
+    },
+    "result":
+    {
+        "item":"phlorishtutorial:sapphire_block"
+    }
+}

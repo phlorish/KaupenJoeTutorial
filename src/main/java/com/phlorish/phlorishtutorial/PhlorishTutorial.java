@@ -1,6 +1,10 @@
 package com.phlorish.phlorishtutorial;
 
 import com.mojang.logging.LogUtils;
+import com.phlorish.phlorishtutorial.block.ModBlocks;
+import com.phlorish.phlorishtutorial.item.ModCreativeModeTabs;
+import com.phlorish.phlorishtutorial.item.ModItems;
+
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.food.FoodProperties;
@@ -41,6 +45,11 @@ public class PhlorishTutorial
     public PhlorishTutorial()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        
+        ModCreativeModeTabs.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
@@ -64,7 +73,11 @@ public class PhlorishTutorial
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
-        
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS)
+        {
+            event.accept(ModItems.SAPPHIRE);
+            event.accept(ModItems.RAW_SAPPHIRE);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call
