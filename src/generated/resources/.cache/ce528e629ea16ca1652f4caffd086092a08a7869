@@ -1,0 +1,4 @@
+// 1.20.1	2023-11-25T10:21:51.8386792	Tags for minecraft:block mod id phlorishtutorial
+86a7ffd7afddbea14adda22016161eb4a93c8741 data/minecraft/tags/blocks/mineable/pickaxe.json
+53bd7a7156aed0b95c7c80655fafd8a10506423a data/minecraft/tags/blocks/needs_iron_tool.json
+7a77ed1a3d591ef3b17c8d6659689bb6eeebd883 data/phlorishtutorial/tags/blocks/detectable_metals.json

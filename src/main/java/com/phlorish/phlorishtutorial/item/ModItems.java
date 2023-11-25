@@ -1,6 +1,7 @@
 package com.phlorish.phlorishtutorial.item;
 
 import com.phlorish.phlorishtutorial.PhlorishTutorial;
+import com.phlorish.phlorishtutorial.item.custom.FuelItem;
 import com.phlorish.phlorishtutorial.item.custom.MetalDetectorItem;
 
 import net.minecraft.world.item.Item;
@@ -19,6 +20,8 @@ public class ModItems {
                 () -> new Item(new Item.Properties()));
             public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
                 () -> new MetalDetectorItem(new Item.Properties().durability(100)));
+            public static final RegistryObject<Item> STRAWBERRY = ITEMS.register("strawberry",
+                () -> new FuelItem(new Item.Properties().food(ModFoods.STRAWBERRY), 40));
 
             public static void register(IEventBus eventBus)
             {

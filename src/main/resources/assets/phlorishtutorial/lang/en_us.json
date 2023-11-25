@@ -2,6 +2,7 @@
     "item.phlorishtutorial.sapphire": "Sapphire",
     "item.phlorishtutorial.raw_sapphire": "Raw Sapphire",
     "item.phlorishtutorial.metal_detector": "Metal Detector",
+    "item.phlorishtutorial.strawberry": "Strawberry",
 
     "block.phlorishtutorial.sapphire_block": "Block of Sapphire",
     "block.phlorishtutorial.raw_sapphire_block": "Block of Raw Sapphire",
@@ -12,5 +13,7 @@
     "block.phlorishtutorial.nether_sapphire_ore": "Nether Sapphire Ore",
     "block.phlorishtutorial.end_stone_sapphire_ore": "End Stone Sapphire Ore",
 
-    "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+    "creativetab.tutorial_tab": "Sapphire Tutorial Tab",
+
+    "tooltip.phlorishtutorial.metal_detector.tooltip": "Finds ores underground"
 }
