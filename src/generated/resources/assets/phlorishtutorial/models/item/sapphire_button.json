@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "phlorishtutorial:block/sapphire_block"
+  }
+}

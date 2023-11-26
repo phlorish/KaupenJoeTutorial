@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "phlorishtutorial:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "phlorishtutorial:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "phlorishtutorial:block/sapphire_slab_top"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "phlorishtutorial:block/sapphire_block"
+  }
+}

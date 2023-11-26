@@ -1,4 +1,7 @@
-// 1.20.1	2023-11-25T10:21:51.8386792	Tags for minecraft:block mod id phlorishtutorial
+// 1.20.1	2023-11-25T14:43:56.4464844	Tags for minecraft:block mod id phlorishtutorial
+2f5a67018d864d268745bea14bbb9d21c8581e0d data/minecraft/tags/blocks/fences.json
+94d570dba602abebad9ef622d52cc5bf8a3f12b9 data/minecraft/tags/blocks/fence_gates.json
 86a7ffd7afddbea14adda22016161eb4a93c8741 data/minecraft/tags/blocks/mineable/pickaxe.json
 53bd7a7156aed0b95c7c80655fafd8a10506423a data/minecraft/tags/blocks/needs_iron_tool.json
+ae74cb677960fa840ddf64c406a3d4910b3dcfa7 data/minecraft/tags/blocks/walls.json
 7a77ed1a3d591ef3b17c8d6659689bb6eeebd883 data/phlorishtutorial/tags/blocks/detectable_metals.json

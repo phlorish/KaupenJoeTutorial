@@ -13,6 +13,17 @@
     "block.phlorishtutorial.nether_sapphire_ore": "Nether Sapphire Ore",
     "block.phlorishtutorial.end_stone_sapphire_ore": "End Stone Sapphire Ore",
 
+    "block.phlorishtutorial.sapphire_stairs": "Sapphire Stairs",
+    "block.phlorishtutorial.sapphire_slab": "Sapphire Slab",
+    "block.phlorishtutorial.sapphire_button": "Sapphire Button",
+    "block.phlorishtutorial.sapphire_pressure_plate": "Sapphire Pressure Plate",
+    "block.phlorishtutorial.sapphire_fence": "Sapphire Fence",
+    "block.phlorishtutorial.sapphire_fence_gate": "Sapphire Fence Gate",
+    "block.phlorishtutorial.sapphire_wall": "Sapphire Wall",
+    "block.phlorishtutorial.sapphire_door": "Sapphire Door",
+    "block.phlorishtutorial.sapphire_trapdoor": "Sapphire Trapdoor",
+    "block.phlorishtutorial.sapphire_barrel": "Sapphire Barrel",
+
     "creativetab.tutorial_tab": "Sapphire Tutorial Tab",
 
     "tooltip.phlorishtutorial.metal_detector.tooltip": "Finds ores underground"

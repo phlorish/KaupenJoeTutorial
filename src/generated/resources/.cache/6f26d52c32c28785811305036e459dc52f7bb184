@@ -1,5 +1,14 @@
-// 1.20.1	2023-11-25T10:21:51.8336777	Item Models: phlorishtutorial
+// 1.20.1	2023-11-26T09:43:46.0586077	Item Models: phlorishtutorial
 dfee818aa22d29c3b24cf8cd8136e0dd917b8a0e assets/phlorishtutorial/models/item/metal_detector.json
 b2347d57aaa68e58493a2296af58ce05a3e16f19 assets/phlorishtutorial/models/item/raw_sapphire.json
 8e38f2676cb7ac84d33ad776d29872371acbbfd0 assets/phlorishtutorial/models/item/sapphire.json
+d746124fa025094e1e4be1f93a20b574e55b2e6c assets/phlorishtutorial/models/item/sapphire_button.json
+9570440a46e8d122ffe12184dcd593597d1784ff assets/phlorishtutorial/models/item/sapphire_door.json
+6a79710349efac4e6c7d7ad554b4a0c1e328c168 assets/phlorishtutorial/models/item/sapphire_fence.json
+e74660d828e91b0fa2f16264af124654ecc52fa4 assets/phlorishtutorial/models/item/sapphire_fence_gate.json
+5d4b864a306f57c19388df2a74caecf0868eb2b6 assets/phlorishtutorial/models/item/sapphire_pressure_plate.json
+71d185de6861067e1e9ccf55090bcb706f87f192 assets/phlorishtutorial/models/item/sapphire_slab.json
+e7bea666b0469ab08916c9fbf9c9a0a60ee658f6 assets/phlorishtutorial/models/item/sapphire_stairs.json
+41571a422c0a560560a5aafd467595493a02473b assets/phlorishtutorial/models/item/sapphire_trapdoor.json
+bf3693acae82943244973d397aaa6ff233dcd3bd assets/phlorishtutorial/models/item/sapphire_wall.json
 2ee29b27a24f9e92b439ed5c3a6392a1ebed6dd9 assets/phlorishtutorial/models/item/strawberry.json
